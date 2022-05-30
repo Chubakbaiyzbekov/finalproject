@@ -1,4 +1,4 @@
-# OOPMidtermProject
+# FinalProject
 # Battleship
 
 JavaFx battleship game.
